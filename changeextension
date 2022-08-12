@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Change the extension of a js and jsx files to ts and tsx, respectively.
+
+find ./src -name "*.js" -exec sh -c 'f={}; mv "$f" "${f%.js}.ts"' _ {} \;
+find ./src -name "*.jsx" -exec sh -c 'f={}; mv "$f" "${f%.jsx}.tsx"' _ {} \;

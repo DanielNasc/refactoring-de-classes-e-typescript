@@ -1,28 +1,28 @@
 {
   "foods": [
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
       "image": "https://i.pinimg.com/originals/5b/80/9c/5b809c565b055ccc4f77ae388e527fa4.png",
       "name": "Amogus",
       "price": "99.99",
-      "description": "amogus",
+      "description": "amogus sus",
       "available": true,
       "id": 4
+    },
+    {
+      "image": "https://www.cineset.com.br/wp-content/uploads/2018/07/breaking_bad___walter_white__wallpaper__by_blockstabfatality-d9alw1k-1024x576.jpg",
+      "name": "Walter White",
+      "price": "23232.32",
+      "description": "Como isso afeta o Grêmio?",
+      "available": true,
+      "id": 5
     }
   ]
 }
