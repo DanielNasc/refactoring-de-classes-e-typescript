@@ -7,3 +7,4 @@ Essa será uma aplicação já funcional onde o seu principal objetivo é rea
 ## Prints
 
 ![](./.github/amogus.png)
+![](./.github/walterwhitegremio.png)
